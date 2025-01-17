@@ -1,4 +1,19 @@
 # Priority_Encoder_UVM_Verification
+
+# EDA PLAYGROUND : https://www.edaplayground.com/x/MjLR
+
+🚀 Priority Encoder Testbench with 100% Functional Coverage and Advanced Constraint-Based Randomization
+
+I designed and implemented a UVM-based testbench for a priority encoder, leveraging constraint-based randomization to generate diverse and comprehensive input sequences. The testbench ensures functional correctness by tracking all possible output states through a robust functional coverage model.
+
+🔍 Key Features:
+
+Achieved 100% functional coverage, guaranteeing full verification of the design's behavior.
+Utilized constraint-based randomization to generate inputs that meet specific conditions, enhancing test robustness.
+Generated detailed coverage reports in both text and HTML formats, providing clear insights into the test results and coverage progress.
+This approach has significantly strengthened the verification process, ensuring a highly reliable and fully tested design.
+
+
 +++++++++++++++++++++++++++++++++++++++++++++
 ++++++++++       REPORT INFO       ++++++++++
 +++++++++++++++++++++++++++++++++++++++++++++
